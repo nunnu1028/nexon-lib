@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"outDir": "dist",
+		"target": "ES6",
+		"strict": true
+	},
+	"include": ["src/**/*", "nexon-files/ngb login.js"],
+	"exclude": ["node_modules"]
+}
